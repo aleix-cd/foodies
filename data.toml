@@ -55,6 +55,10 @@ url = "https://maps.app.goo.gl/ttaYH75qfikW9GAW7"
 title = "Vermuteo & Tapeo - Barcelona"
 description = ""
 url = "https://maps.app.goo.gl/n5N595iqnGKEhSxL6"
+[[sections.items]]
+title = "Chinese - Barcelona"
+description = ""
+url = "https://maps.app.goo.gl/zuPCtrHyBM1RLnwz7"
 
 [[sections]]
 title = "Regions"
